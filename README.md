@@ -1,5 +1,5 @@
 # Hi, I'm Shubham Sarvankar,
-A software engineer with a focus on backend systems, distributed infrastructure, and applied ML.
+A full-stack software engineer with depth in backend systems, distributed infrastructure, and applied ML.
 
 I build production-grade systems end to end, from REST APIs and real-time messaging services to fine-tuned language models and retrieval pipelines. My work sits at the intersection of software engineering and applied ML: I care as much about how a system is deployed and scaled as I do about the model inside it. I enjoy working on projects that bring different domains together to produce an impact on the world. 
 
